@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="T01"/>
+        <attribute name="authors" value="ASUS"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2024-09-04 09:10:11 PM"/>
+        <attribute name="created" value="QVNVUztERVNLVE9QLVROSkJBVUI7MjAyNC0wOS0wNDswODowMDoyMiBQTTsyNjk0"/>
+        <attribute name="edited" value="QVNVUztERVNLVE9QLVROSkJBVUI7MjAyNC0wOS0wNDswOToxMDoxMSBQTTsxOzI4MDI="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="ISBN" type="String" array="False" size=""/>
+            <input variable="978-0201498400"/>
+            <output expression="&quot;978-0201498400&quot;" newline="True"/>
+            <input variable="umur"/>
+            <output expression="&quot;18&quot;" newline="True"/>
+            <input variable="alamat"/>
+            <output expression="&quot;Laguboti&quot;" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
